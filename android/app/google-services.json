@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42137419098",
+    "project_id": "community-app-fe7e5",
+    "storage_bucket": "community-app-fe7e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42137419098:android:11c1689c8f4fefdc92c763",
+        "android_client_info": {
+          "package_name": "com.sreekanth.flutterquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZjk-IgpXLsbmIqZQ_pyzl38Gw22NR1bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
